@@ -5,3 +5,4 @@ branchA
 local branchA
 remote branchA
 remote branchB
+local branchB
