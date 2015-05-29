@@ -4,3 +4,4 @@ Hi append something
 branchA
 local branchA
 remote branchA
+remote branchB
